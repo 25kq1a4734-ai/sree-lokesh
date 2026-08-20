@@ -1,0 +1,9 @@
+class Book:
+ def__init__(self,name,author,price) 
+sefl.name =name 
+self.author=author
+self.price=price
+def displaydetails(self): 
+ print(self.name,self.author,self.price)
+ b1=Book("bahubalui" , "raja mouli" , 5000)
+ b1=displaydetails ()
